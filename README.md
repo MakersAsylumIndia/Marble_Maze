@@ -9,9 +9,8 @@ DiY hour Marble Maze
 - After sticking the foam to the bottom, remove the circular traps where needed, but preserve the discarded foam circles in casy you need to adjust the maze traps.
 - Add the barriers to the top piece, and then assemble the whole.
 
-![Marble Maze 01](/renders/marble_maze_01.png)
-![Marble Maze 02](/renders/marble_maze_02.png)
-![Marble Maze 03](/renders/marble_maze_03.png)
-![Marble Maze 04](/renders/marble_maze_04.png)
-![Marble Maze 05](/renders/marble_maze_05.png)
-
+![Marble_Maze_01](/renders/marble_maze_01.png)
+![Marble_Maze_02](/renders/marble_maze_02.png)
+![Marble_Maze_03](/renders/marble_maze_03.png)
+![Marble_Maze_04](/renders/marble_maze_04.png)
+![Marble_Maze_05](/renders/marble_maze_05.png)
